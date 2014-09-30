@@ -1,0 +1,21 @@
+{
+  "name": "gmap-utility-epolys",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Raccourci/gmap-utility-epolys",
+  "authors": [
+    "Clément LAMOUREUX <clement@raccourci.fr>"
+  ],
+  "description": "Bower component for v3_epolys, by geocodezip",
+  "main": "v3_epoly.js",
+  "keywords": [
+    "gmap-utility-epolys"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
